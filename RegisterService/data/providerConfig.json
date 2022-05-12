@@ -1,0 +1,5 @@
+{
+    "serviceRegistryAddress": "192.168.0.102",
+    "serviceRegistryPort": "8443",
+    "systemName": "myesp2"
+}
